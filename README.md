@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ConverseSync <br>👯 I’m looking to collaborate on Web Development Projects <br>🤝 I’m looking for help with Web 3<br>🌱 I’m currently learning Web 3 <br>💬 Ask me about web development, Frontend development, Full-stack development and UI/UX<br>⚡ Fun fact I'm a lazy Developer 😴
+🔭 I’m currently working on ConverseSync and Learn Here <br>👯 I’m looking to collaborate on Web Development Projects <br>🤝 I’m looking for help with Web 3<br>🌱 I’m currently learning Web 3 <br>💬 Ask me about web development, Frontend development, Full-stack development and UI/UX<br>⚡ Fun fact I'm a lazy Developer 😴
 
 
 ## 🌐 Socials:
