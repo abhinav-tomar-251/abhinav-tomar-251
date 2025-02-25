@@ -1,9 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on ConverseSync and Learn Here <br>👯 I’m looking to collaborate on Web Development Projects <br>🤝 I’m looking for help with Web 3<br>🌱 I’m currently learning Web 3 <br>💬 Ask me about web development, Frontend development, Full-stack development and UI/UX<br>⚡ Fun fact I'm a lazy Developer 😴
+🔭 I’m currently working on ConverseSync and Learn Here <br>👯 I’m looking to collaborate on Web Development Projects <br>🤝 I’m looking for help with Web 3<br>🌱 I’m currently learning Web 3 <br>💬 Ask me about web development, App development, Frontend development, Full-stack development and UI/UX<br>⚡ Fun fact I'm a lazy Developer 😴
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/abhinavtomar2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhi_10825) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abhinav-tomar-93144622a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhinavtomar251) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Abhinav-251)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0000.svg?logo=Portfolio&logoColor=white)](https://abhinavtomar.netlify.app/) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/abhinavtomar2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhi_10825) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abhinav-tomar-93144622a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhinavtomar251) 
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Abhinav-251) -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0000.svg?logo=Portfolio&logoColor=white)](https://abhinavtomar.netlify.app/) -->
 
 ## Badges:
 [![An image of @abhinavtomar251's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhinavtomar251)](https://holopin.io/@abhinavtomar251)
