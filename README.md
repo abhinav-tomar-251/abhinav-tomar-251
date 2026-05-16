@@ -162,27 +162,42 @@ I'm a Software Engineer at **MindRuby Technologies** in Indore, India — buildi
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhinav-tomar-251&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-tomar-251&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinav-tomar-251&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=abhinav-tomar-251&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhinav-tomar-251&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-tomar-251&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinav-tomar-251&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </p>
 
-### 🏆 Trophies
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinav-tomar-251&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</p>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-tomar-251&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://raw.githubusercontent.com/abhinav-tomar-251/abhinav-tomar-251/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
